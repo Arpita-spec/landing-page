@@ -1,0 +1,126 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header-logo{
+    font-size: 24px;
+    color:#F9FAF8;
+    margin-left: 20px;
+    
+    
+}
+.top{
+    background-color: #1F2937;
+}
+ul{
+    list-style:none;
+    display: flex;
+    flex-direction:row;
+    gap: 20px;
+    justify-content: flex-end;
+   
+    
+
+    font-size: 24px;
+    color:#F9FAF8;
+   
+
+
+
+}
+body{
+    font-family:sans-serif;
+}
+.heading{
+    color:#F9FAF8;
+    margin-top: 100px;
+    margin-left: 400px;
+    justify-content: space-around;
+    
+    
+    
+    
+
+    width:50%;
+    display:flex;
+    gap:100px;
+    
+    
+
+
+}
+.first{
+    background-color: #1DA1F2;
+    color:#F9FAF8;
+    height: 30px;
+    width:120px;
+    cursor: pointer;
+    border:solid #1DA1F2;
+    border-radius: 5px;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+    margin-top:50px;
+    margin-bottom: 50px;
+    
+}
+
+.aurora,.nature,.santa,.sauna{
+    border:solid #1DA1F2;
+    border-radius: 10px;
+}
+.activities{
+    display:flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.quotes{
+    text-align: center;
+    margin:100px;
+    background-color: #E5E7EB;
+    font:36px light italic;
+    padding-left: 100px;
+    padding-right:100px;
+    padding-bottom: 200px;
+    padding-top:100px;
+    margin-left: -100px;
+    margin-right:-100px;
+}
+.author{
+    font-weight:bold;
+    font-size: 20px;
+    float:right;
+    margin-top: 10px;
+    
+}
+
+.second{
+    background-color:#1DA1F2;
+    color:#F9FAF8;
+    height: 30px;
+    width:120px;
+    cursor: pointer;
+    border:solid #F9FAF8;
+    border-radius: 5px; 
+}
+.sign-up{
+    background-color: #1DA1F2;
+    color:#F9FAF8;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+footer{
+    text-align: center;
+    color:#E5E7EB;
+    background-color: #1F2937;
+    margin-top: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
