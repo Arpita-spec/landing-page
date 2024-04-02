@@ -139,7 +139,10 @@ a:link{
     color:#E5E7EB ;
 }
 a:active{
-    color:#E5E7EB  ;
+    color:#E5E7EB ;
+}
+a:visited{
+    color: #E5E7EB;
 }
 .text{
     display: flex;
